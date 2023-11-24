@@ -6,6 +6,8 @@ A implementação de um Web Application Firewall (WAF) em um servidor web é uma
 
 # Tabela de conteúdos
 
+* [Diagrama](#)
+
 * [Instalação](#)
 
 * [Características](#)
@@ -15,6 +17,10 @@ A implementação de um Web Application Firewall (WAF) em um servidor web é uma
 * [Testes](#)
 
 * [Dúvidas](#)
+
+# Diagrama
+
+<img src="WAF.drawio (1).png">
 
 # Instalação
 
